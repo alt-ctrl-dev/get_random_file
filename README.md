@@ -4,7 +4,7 @@ This project is a node.js based project to return a random file based on the sea
 
 # Getting Started
 ```
-- git clone [https://github.com/reubenkcoutinho/read_folder/](https://github.com/reubenkcoutinho/read_folder/)
+- git clone https://github.com/reubenkcoutinho/get_ranndom_file
 - machine$ node index.js <Path/to/list/of/media/files> 
 ```
 
